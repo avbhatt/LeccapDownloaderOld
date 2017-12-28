@@ -1,5 +1,7 @@
+# OLD: see https://github.com/avbhatt/LeccapDownloader
 # LeccapDownloader
 
+## LEGACY:
 An automated lecture recording downloader designed to work with https://leccap.engin.umich.edu.
 
 This implementation downloads selected lectures for a given course into a given directory.
